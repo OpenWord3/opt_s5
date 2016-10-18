@@ -1,0 +1,4 @@
+V	171013090317Z		01	unknown	/C=CI/ST=Lagune/L=Abidjan/O=Cantbreakit/CN=www.serveurvpn.fr/emailAddress=serveur@cantbreakit.fr
+V	171013090441Z		02	unknown	/C=CI/ST=Lagune/L=Abidjan/O=Cantbreakit/CN=www.clientvpn.fr/emailAddress=client@cantbreakit.fr
+V	171013092653Z		03	unknown	/C=CI/ST=Lagune/L=Abidjan/O=Cantbreakit/CN=www.cantbreakit.fr/emailAddress=serveurcant@cantbreakit.fr
+V	171013092914Z		04	unknown	/C=CI/ST=Lagune/L=Abidjan/O=Cantbreakit/CN=ubuntu/emailAddress=ubuntu@cantbreakit.fr

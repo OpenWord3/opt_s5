@@ -1,0 +1,123 @@
+-----BEGIN CERTIFICATE-----
+MIIElzCCA3+gAwIBAgIJALPYNAbvCt34MA0GCSqGSIb3DQEBCwUAMH8xCzAJBgNV
+BAYTAkZSMRYwFAYDVQQIDA1JbGUtZGUtRnJhbmNlMQ8wDQYDVQQHDAZHcmlnbnkx
+FDASBgNVBAoMC0NhbnRicmVha2l0MRQwEgYDVQQDDAt3d3cucm9vdC5mcjEbMBkG
+CSqGSIb3DQEJARYMcm9vdEBtYWlsLmZyMB4XDTE2MTAxMTA4MTMzOFoXDTE2MTEx
+MDA4MTMzOFowfzELMAkGA1UEBhMCRlIxFjAUBgNVBAgMDUlsZS1kZS1GcmFuY2Ux
+DzANBgNVBAcMBkdyaWdueTEUMBIGA1UECgwLQ2FudGJyZWFraXQxFDASBgNVBAMM
+C3d3dy5yb290LmZyMRswGQYJKoZIhvcNAQkBFgxyb290QG1haWwuZnIwggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCoMAMF+L1mfCMxfH6QOc/LIyQIjVXY
+CDBRF3ZbB950StB63t4cQs5yPNcTNOx01HkMYK3RriGTTQ3CxCly9sEYz2dckQx/
+k29rgLO5xu7mCPL3lsHTnJtG6bdu+tiSps+xon/FBRmW1Alppa40QYifRm6/9kbq
+sU/0rkwz8VVPTIBt8uawMTDPLPRF/pWFKQqGMGJGWtmqlHIdqwl8Ry6dojn2Hfie
+2W/Ri6ms/JDApDsIep+8E5Di2l/shBYp6UjUtEbU554ueUIEVxM53Gw7I4uWFB7T
+iIxzD7okGDBLbqRynj0r/q7dlIMpqhO09maA6kELAf7RezfEbK25x93lAgMBAAGj
+ggEUMIIBEDAYBglghkgBhvhCAQ0ECxYJQ0EgUmFjaW5lMB0GA1UdDgQWBBQwPHee
+6JUe+BrzPpqzgDtORnMCBDCBswYDVR0jBIGrMIGogBQwPHee6JUe+BrzPpqzgDtO
+RnMCBKGBhKSBgTB/MQswCQYDVQQGEwJGUjEWMBQGA1UECAwNSWxlLWRlLUZyYW5j
+ZTEPMA0GA1UEBwwGR3JpZ255MRQwEgYDVQQKDAtDYW50YnJlYWtpdDEUMBIGA1UE
+AwwLd3d3LnJvb3QuZnIxGzAZBgkqhkiG9w0BCQEWDHJvb3RAbWFpbC5mcoIJALPY
+NAbvCt34MBIGA1UdEwEB/wQIMAYBAf8CAQEwCwYDVR0PBAQDAgEGMA0GCSqGSIb3
+DQEBCwUAA4IBAQAgnjZ+UHsHXjIaBszNpO6v6FKW8vCfI643i9KV8H23iQuhDWfD
+jAdIvGIH2a8xdlcul0QHMCii6s+9pE61VKzBW//oazXh6Z1EmUTP2UTrgXZ08g8D
+tEX8iqvMU8HE/zEZPHPH6gI6FcxGQu/NLJf49H8u0legl16X71SzwMUQA3/Hy9qB
+dSd4pmNyt1tV57DNAYFjfEhpbl8cFFuyvGJPsIZ/NwMA6baAjsZ3EDxGvaO9Qtqd
+H2jY9G2DntZGKDzrmTbCMLjxQa3eR7WVCgebQVHLKn5nrT9cmxcdqNtdLDCe4qmq
+Dt4hDyuFsWedTf7VqqZvdRDif78pZFu+lT9v
+-----END CERTIFICATE-----
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1 (0x1)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=FR, ST=Ile-de-France, L=Grigny, O=Cantbreakit, CN=www.root.fr/emailAddress=root@mail.fr
+        Validity
+            Not Before: Oct 11 08:26:04 2016 GMT
+            Not After : Oct 11 08:26:04 2017 GMT
+        Subject: C=CI, ST=Lagune, L=Abidjan, O=Cantbreakit, CN=www.root_cbi_g2.fr/emailAddress=root_cbi_g2@mail.fr
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:e6:16:36:f5:9a:12:cd:e7:6a:6d:bd:cc:ee:1b:
+                    a9:77:b2:fb:92:52:76:56:4c:d3:5c:36:92:85:58:
+                    21:53:61:78:b4:1f:cb:08:bb:53:cb:5b:0f:b9:b4:
+                    58:67:2f:34:5d:6f:ee:e8:8d:f4:3f:51:39:2d:06:
+                    be:2e:29:0b:11:91:dc:c9:02:3c:77:ac:10:b8:a9:
+                    52:1e:02:71:4d:2b:84:b5:0d:53:d8:04:d9:31:79:
+                    bb:8d:46:90:dc:dc:dc:65:7e:c2:40:bb:3e:aa:01:
+                    3c:4b:59:d0:1a:ab:24:fc:0d:87:cf:cb:50:6a:64:
+                    ce:0b:ce:77:4f:9b:0a:05:2d:93:b7:07:43:d3:89:
+                    80:b5:a4:8b:31:61:91:6f:df:c0:80:89:c0:5b:71:
+                    9a:1a:b7:6e:94:fe:19:4a:a7:1b:fd:08:69:23:4e:
+                    93:00:b0:29:a0:73:b6:71:99:64:74:0e:58:c7:d4:
+                    36:8f:08:5f:f4:5a:eb:5d:a4:94:4b:6d:20:cb:ab:
+                    8b:7f:ac:67:57:43:86:0f:f4:05:1d:38:e3:14:90:
+                    38:b0:6e:27:c9:b8:23:1f:b3:4d:38:13:ba:26:3f:
+                    66:fe:78:17:70:15:dd:20:ac:f1:b9:6b:f3:e3:d8:
+                    8c:fe:2a:b0:e1:74:d0:31:8c:7c:9f:4c:32:e2:d9:
+                    6d:17
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            Netscape Comment: 
+                CA SSL
+            X509v3 Basic Constraints: critical
+                CA:TRUE, pathlen:0
+            X509v3 Subject Key Identifier: 
+                EB:1A:88:B2:47:EA:BF:24:64:EE:69:41:67:0C:D7:60:86:37:15:3B
+            X509v3 Authority Key Identifier: 
+                keyid:30:3C:77:9E:E8:95:1E:F8:1A:F3:3E:9A:B3:80:3B:4E:46:73:02:04
+                DirName:/C=FR/ST=Ile-de-France/L=Grigny/O=Cantbreakit/CN=www.root.fr/emailAddress=root@mail.fr
+                serial:B3:D8:34:06:EF:0A:DD:F8
+
+            X509v3 Issuer Alternative Name: 
+                <EMPTY>
+
+            X509v3 Key Usage: 
+                Certificate Sign, CRL Sign
+            Netscape Cert Type: 
+                SSL CA
+    Signature Algorithm: sha1WithRSAEncryption
+         32:c3:3f:6d:30:c9:0c:6b:ef:e9:2b:79:28:47:af:a1:91:18:
+         a9:41:8f:a8:16:38:b3:2e:1b:0a:94:00:a1:9e:15:51:fb:a8:
+         36:94:bd:20:7f:9a:3e:ed:65:16:52:ba:90:cd:3c:70:f8:7c:
+         a9:87:a1:35:1a:f4:8d:38:f9:79:ae:32:f9:a6:6c:44:b3:c0:
+         74:02:2c:d9:0e:bd:9f:3d:f7:ed:c7:fa:71:76:94:3f:70:cd:
+         ea:e8:bf:8d:8a:2e:30:09:1d:5f:80:51:46:a4:46:cb:19:b0:
+         f9:62:e9:7c:52:7d:5f:7e:96:47:24:06:8b:d1:e1:15:34:06:
+         15:dd:6b:b1:92:c2:d3:2e:ec:d5:69:01:ef:aa:b7:6d:56:13:
+         d7:e1:bd:df:f9:22:aa:b7:4c:eb:4f:e6:20:49:fd:bf:b3:a0:
+         02:79:7f:1f:ca:1d:2c:41:e6:ed:a9:7d:24:9e:df:37:c1:43:
+         8e:c5:23:7a:4a:c4:ce:b8:96:e1:10:2c:d1:8f:51:ad:cb:87:
+         5e:aa:00:64:49:5c:11:50:2b:a5:a1:f5:63:a0:1b:e7:0e:10:
+         a4:f4:09:38:9b:30:ce:37:4a:7d:c4:07:bb:27:54:ad:48:2d:
+         d9:49:41:f3:9b:5e:e0:fc:b3:35:53:c0:69:8b:b5:10:8b:8a:
+         08:f3:13:8e
+-----BEGIN CERTIFICATE-----
+MIIEszCCA5ugAwIBAgIBATANBgkqhkiG9w0BAQUFADB/MQswCQYDVQQGEwJGUjEW
+MBQGA1UECAwNSWxlLWRlLUZyYW5jZTEPMA0GA1UEBwwGR3JpZ255MRQwEgYDVQQK
+DAtDYW50YnJlYWtpdDEUMBIGA1UEAwwLd3d3LnJvb3QuZnIxGzAZBgkqhkiG9w0B
+CQEWDHJvb3RAbWFpbC5mcjAeFw0xNjEwMTEwODI2MDRaFw0xNzEwMTEwODI2MDRa
+MIGHMQswCQYDVQQGEwJDSTEPMA0GA1UECAwGTGFndW5lMRAwDgYDVQQHDAdBYmlk
+amFuMRQwEgYDVQQKDAtDYW50YnJlYWtpdDEbMBkGA1UEAwwSd3d3LnJvb3RfY2Jp
+X2cyLmZyMSIwIAYJKoZIhvcNAQkBFhNyb290X2NiaV9nMkBtYWlsLmZyMIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA5hY29ZoSzedqbb3M7hupd7L7klJ2
+VkzTXDaShVghU2F4tB/LCLtTy1sPubRYZy80XW/u6I30P1E5LQa+LikLEZHcyQI8
+d6wQuKlSHgJxTSuEtQ1T2ATZMXm7jUaQ3NzcZX7CQLs+qgE8S1nQGqsk/A2Hz8tQ
+amTOC853T5sKBS2TtwdD04mAtaSLMWGRb9/AgInAW3GaGrdulP4ZSqcb/QhpI06T
+ALApoHO2cZlkdA5Yx9Q2jwhf9FrrXaSUS20gy6uLf6xnV0OGD/QFHTjjFJA4sG4n
+ybgjH7NNOBO6Jj9m/ngXcBXdIKzxuWvz49iM/iqw4XTQMYx8n0wy4tltFwIDAQAB
+o4IBLzCCASswFQYJYIZIAYb4QgENBAgWBkNBIFNTTDASBgNVHRMBAf8ECDAGAQH/
+AgEAMB0GA1UdDgQWBBTrGoiyR+q/JGTuaUFnDNdghjcVOzCBswYDVR0jBIGrMIGo
+gBQwPHee6JUe+BrzPpqzgDtORnMCBKGBhKSBgTB/MQswCQYDVQQGEwJGUjEWMBQG
+A1UECAwNSWxlLWRlLUZyYW5jZTEPMA0GA1UEBwwGR3JpZ255MRQwEgYDVQQKDAtD
+YW50YnJlYWtpdDEUMBIGA1UEAwwLd3d3LnJvb3QuZnIxGzAZBgkqhkiG9w0BCQEW
+DHJvb3RAbWFpbC5mcoIJALPYNAbvCt34MAkGA1UdEgQCMAAwCwYDVR0PBAQDAgEG
+MBEGCWCGSAGG+EIBAQQEAwICBDANBgkqhkiG9w0BAQUFAAOCAQEAMsM/bTDJDGvv
+6St5KEevoZEYqUGPqBY4sy4bCpQAoZ4VUfuoNpS9IH+aPu1lFlK6kM08cPh8qYeh
+NRr0jTj5ea4y+aZsRLPAdAIs2Q69nz337cf6cXaUP3DN6ui/jYouMAkdX4BRRqRG
+yxmw+WLpfFJ9X36WRyQGi9HhFTQGFd1rsZLC0y7s1WkB76q3bVYT1+G93/kiqrdM
+60/mIEn9v7OgAnl/H8odLEHm7al9JJ7fN8FDjsUjekrEzriW4RAs0Y9RrcuHXqoA
+ZElcEVArpaH1Y6Ab5w4QpPQJOJswzjdKfcQHuydUrUgt2UlB85te4PyzNVPAaYu1
+EIuKCPMTjg==
+-----END CERTIFICATE-----

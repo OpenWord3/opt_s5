@@ -1,0 +1,5 @@
+V	171011082604Z		01	unknown	/C=CI/ST=Lagune/L=Abidjan/O=Cantbreakit/CN=www.root_cbi_g2.fr/emailAddress=root_cbi_g2@mail.fr
+V	171011092909Z		02	unknown	/C=FR/ST=Essonne/L=Juvisy/O=Cantbreakit/CN=www.semestre2.fr/emailAddress=semestre2@mail.fr
+R	171016130857Z	161016131852Z	03	unknown	/C=FR/ST=Seine-et-Marne/L=Melun/O=Cantbreakit/CN=www.semestre3.fr/emailAddress=semestre3@cantbreakit.fr
+R	171016172924Z	161016172945Z	04	unknown	/C=CI/ST=Lagune/L=San-Pedro/O=Cantbreakit/CN=semestre3/emailAddress=semestre3@cantbreakit.fr
+R	171018074447Z	161018074948Z	05	unknown	/C=CI/ST=R\xC3\x83\xC2\xA9gion-des-Ca\xC3\x83\xC2\xAFmans/L=Yamoussoukro/O=Cantbreakit/CN=www.hassane.fr/emailAddress=hassane@cantbreakit.fr

@@ -1,0 +1,4 @@
+R	171013094607Z	161013094727Z	01	unknown	/C=FR/ST=Essonne/L=Juvisy/O=Cantbreakit/CN=www.test1.fr/emailAddress=test@cantbreakit.fr
+R	171016132059Z	161016133055Z	02	unknown	/C=FR/ST=Essonne/L=Juvisy/O=Cantbreakit/CN=hascko/emailAddress=hascko@cantbreakit.fr
+R	171016132328Z	161016132342Z	03	unknown	/C=FR/ST=Essonne/L=Juvisy/O=Cantbreakit/CN=server/emailAddress=server@cantbreakit.fr
+R	171016132433Z	161016133010Z	04	unknown	/C=FR/ST=Essonne/L=Juvisy/O=Cantbreakit/CN=www.bata.fr/emailAddress=bata@cantbreakit.fr
