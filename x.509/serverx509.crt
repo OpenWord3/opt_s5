@@ -1,0 +1,100 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1 (0x1)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=FR, ST=IL, L=Ivry-sur-Seine, O=Cantbreakit, OU=security, CN=Cantbreakit CA/name=MyVPN/emailAddress=root@cantbreakit.fr
+        Validity
+            Not Before: Oct 17 11:25:47 2016 GMT
+            Not After : Oct 15 11:25:47 2026 GMT
+        Subject: C=FR, ST=IL, L=Ivry-sur-Seine, O=Cantbreakit, OU=security, CN=serverx509/name=MyVPN/emailAddress=serverx509@cantbreakit.fr
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:b4:36:18:e5:0f:e3:61:b5:88:f2:f8:73:5d:bf:
+                    ee:e4:5c:91:bb:fa:b0:52:fd:2e:8a:a6:6c:d9:0f:
+                    c9:be:0d:f5:3c:fe:6a:b8:fd:93:db:33:91:45:62:
+                    df:57:ee:7f:0a:06:91:47:ac:55:41:e8:e3:b8:cf:
+                    ed:bb:89:c6:69:47:66:00:bd:25:1c:03:8e:71:32:
+                    3c:60:53:46:75:98:e2:34:74:3f:70:45:31:e4:12:
+                    13:59:42:25:00:d0:0b:bf:4c:5b:bf:0a:da:cd:49:
+                    3f:6d:26:18:7d:5f:4d:f7:1a:6c:29:89:0f:7a:10:
+                    ce:a7:f8:c8:53:7b:f2:e9:f3:29:1a:12:14:a3:48:
+                    fa:dd:79:33:6b:06:b6:a3:66:5c:1d:be:8a:70:73:
+                    a8:42:cf:42:61:30:4a:1f:e4:85:82:76:7d:d6:72:
+                    35:d1:53:4f:31:68:2f:74:62:8e:e4:79:1d:71:32:
+                    0b:bd:32:af:5d:e7:2f:75:79:35:03:2a:1a:61:d9:
+                    d9:08:99:94:25:78:86:74:06:06:cc:08:80:f4:d6:
+                    f4:25:8c:56:3b:b8:a3:ae:8f:e2:78:16:a3:e7:cd:
+                    5d:ef:39:8e:b8:09:e3:bf:42:3c:6d:e7:7f:c6:37:
+                    40:e5:3f:31:d1:9c:31:99:76:f7:ce:07:27:ce:6f:
+                    a4:a3
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Cert Type: 
+                SSL Server
+            Netscape Comment: 
+                Easy-RSA Generated Server Certificate
+            X509v3 Subject Key Identifier: 
+                D5:0A:14:C3:E4:B4:35:2C:05:5F:7D:C2:B6:5C:6F:8F:C3:8D:3B:1E
+            X509v3 Authority Key Identifier: 
+                keyid:F6:AF:FC:6A:19:8E:A7:55:5D:F0:A8:BB:A5:EF:94:7A:EC:02:92:38
+                DirName:/C=FR/ST=IL/L=Ivry-sur-Seine/O=Cantbreakit/OU=security/CN=Cantbreakit CA/name=MyVPN/emailAddress=root@cantbreakit.fr
+                serial:E3:B9:8F:62:1F:51:30:C2
+
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication
+            X509v3 Key Usage: 
+                Digital Signature, Key Encipherment
+            X509v3 Subject Alternative Name: 
+                DNS:serverx509
+    Signature Algorithm: sha256WithRSAEncryption
+         af:2f:74:1c:5a:8d:23:fd:6a:be:5b:3f:e4:68:c8:d5:03:92:
+         b0:6f:2d:0e:4c:47:ca:9e:fd:95:4f:93:ea:ea:ee:5b:e1:c9:
+         c7:38:49:f8:60:77:1a:e0:cf:27:fe:a3:2f:27:3d:c5:4f:8f:
+         2d:14:d7:d2:72:b3:2c:16:99:df:9f:9f:2f:06:f1:1f:21:a7:
+         b1:66:54:ca:a8:b0:67:97:ce:c0:1c:d0:62:10:23:6c:bc:36:
+         52:07:77:3f:f1:d7:46:ed:5a:7d:da:cf:3b:71:7c:0d:ca:3d:
+         f8:81:70:d0:04:c0:c3:e0:4d:c2:ef:b2:6c:a6:85:c4:9e:a8:
+         25:f2:e9:ca:ce:0b:6f:de:a2:d6:cc:64:a1:ef:8f:39:e5:09:
+         29:1e:8f:67:4f:7d:a6:5d:07:e7:ad:c3:04:f5:44:60:1b:03:
+         eb:ec:60:17:e9:89:27:2e:f4:dd:2d:f7:e2:dc:bd:07:85:73:
+         dc:90:2d:50:10:b6:15:ab:f0:6c:3c:c1:71:14:21:4c:21:1d:
+         91:78:f4:69:0e:4b:5f:62:92:81:c2:d2:ee:f1:e1:11:cf:33:
+         8d:a1:2a:1e:92:16:dc:5e:ae:8f:32:00:bc:d7:ad:02:91:e2:
+         91:fa:17:c7:22:eb:03:27:81:da:a9:44:d3:ee:3b:8f:9e:d7:
+         89:e2:38:7d
+-----BEGIN CERTIFICATE-----
+MIIFZDCCBEygAwIBAgIBATANBgkqhkiG9w0BAQsFADCBqTELMAkGA1UEBhMCRlIx
+CzAJBgNVBAgTAklMMRcwFQYDVQQHEw5JdnJ5LXN1ci1TZWluZTEUMBIGA1UEChML
+Q2FudGJyZWFraXQxETAPBgNVBAsTCHNlY3VyaXR5MRcwFQYDVQQDEw5DYW50YnJl
+YWtpdCBDQTEOMAwGA1UEKRMFTXlWUE4xIjAgBgkqhkiG9w0BCQEWE3Jvb3RAY2Fu
+dGJyZWFraXQuZnIwHhcNMTYxMDE3MTEyNTQ3WhcNMjYxMDE1MTEyNTQ3WjCBqzEL
+MAkGA1UEBhMCRlIxCzAJBgNVBAgTAklMMRcwFQYDVQQHEw5JdnJ5LXN1ci1TZWlu
+ZTEUMBIGA1UEChMLQ2FudGJyZWFraXQxETAPBgNVBAsTCHNlY3VyaXR5MRMwEQYD
+VQQDEwpzZXJ2ZXJ4NTA5MQ4wDAYDVQQpEwVNeVZQTjEoMCYGCSqGSIb3DQEJARYZ
+c2VydmVyeDUwOUBjYW50YnJlYWtpdC5mcjCCASIwDQYJKoZIhvcNAQEBBQADggEP
+ADCCAQoCggEBALQ2GOUP42G1iPL4c12/7uRckbv6sFL9LoqmbNkPyb4N9Tz+arj9
+k9szkUVi31fufwoGkUesVUHo47jP7buJxmlHZgC9JRwDjnEyPGBTRnWY4jR0P3BF
+MeQSE1lCJQDQC79MW78K2s1JP20mGH1fTfcabCmJD3oQzqf4yFN78unzKRoSFKNI
++t15M2sGtqNmXB2+inBzqELPQmEwSh/khYJ2fdZyNdFTTzFoL3RijuR5HXEyC70y
+r13nL3V5NQMqGmHZ2QiZlCV4hnQGBswIgPTW9CWMVju4o66P4ngWo+fNXe85jrgJ
+479CPG3nf8Y3QOU/MdGcMZl2984HJ85vpKMCAwEAAaOCAZEwggGNMAkGA1UdEwQC
+MAAwEQYJYIZIAYb4QgEBBAQDAgZAMDQGCWCGSAGG+EIBDQQnFiVFYXN5LVJTQSBH
+ZW5lcmF0ZWQgU2VydmVyIENlcnRpZmljYXRlMB0GA1UdDgQWBBTVChTD5LQ1LAVf
+fcK2XG+Pw407HjCB3gYDVR0jBIHWMIHTgBT2r/xqGY6nVV3wqLul75R67AKSOKGB
+r6SBrDCBqTELMAkGA1UEBhMCRlIxCzAJBgNVBAgTAklMMRcwFQYDVQQHEw5JdnJ5
+LXN1ci1TZWluZTEUMBIGA1UEChMLQ2FudGJyZWFraXQxETAPBgNVBAsTCHNlY3Vy
+aXR5MRcwFQYDVQQDEw5DYW50YnJlYWtpdCBDQTEOMAwGA1UEKRMFTXlWUE4xIjAg
+BgkqhkiG9w0BCQEWE3Jvb3RAY2FudGJyZWFraXQuZnKCCQDjuY9iH1EwwjATBgNV
+HSUEDDAKBggrBgEFBQcDATALBgNVHQ8EBAMCBaAwFQYDVR0RBA4wDIIKc2VydmVy
+eDUwOTANBgkqhkiG9w0BAQsFAAOCAQEAry90HFqNI/1qvls/5GjI1QOSsG8tDkxH
+yp79lU+T6uruW+HJxzhJ+GB3GuDPJ/6jLyc9xU+PLRTX0nKzLBaZ35+fLwbxHyGn
+sWZUyqiwZ5fOwBzQYhAjbLw2Ugd3P/HXRu1afdrPO3F8Dco9+IFw0ATAw+BNwu+y
+bKaFxJ6oJfLpys4Lb96i1sxkoe+POeUJKR6PZ099pl0H563DBPVEYBsD6+xgF+mJ
+Jy703S334ty9B4Vz3JAtUBC2FavwbDzBcRQhTCEdkXj0aQ5LX2KSgcLS7vHhEc8z
+jaEqHpIW3F6ujzIAvNetApHikfoXxyLrAyeB2qlE0+47j57XieI4fQ==
+-----END CERTIFICATE-----
